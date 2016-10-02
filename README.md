@@ -1,17 +1,19 @@
-### Instructions
+### Overview
 
 The purpose of this project is to demonstrate how to collect, work with, and clean a data set.
 
-## Review criterialess
+## Steps to Modify This Script
 
-The submitted data set is tidy.
-The Github repo contains the required scripts.
+Clone or Download the project and unzipped the source files, you will need to make one modification to the R file before you can process the data.
+
+setwd('/Users/cybersociety/coursera/datascience/UCI HAR Dataset/');
+
 
 ## Code Book
 GitHub contains a code book that modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
 
 
-Getting and Cleaning Data Course Projectless
+## Getting and Cleaning Data Course Project
 
 One of the most exciting areas in all of data science right now is wearable computing - see for example this article . Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
 
